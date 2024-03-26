@@ -1,0 +1,5 @@
+.banner{
+    background-image:linear-gradient(to bottom, rgba(21, 11, 43, 0.9),rgba(21, 11, 43, 0)),
+    url('../../assets/Image/Banner.jpg');
+    width: max-content;
+}

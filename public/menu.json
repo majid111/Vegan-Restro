@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "title": "Vegan Chickpea Curry",
+      "description": "Savor the rich flavors of this aromatic chickpea curry, simmered in a fragrant blend of spices and coconut milk.",
+      "ingredients": ["Chickpeas", "Coconut milk", "Tomatoes", "Onion", "Garlic", "Ginger", "Turmeric", "Cumin", "Coriander", "Chili powder", "Garam masala", "Fresh cilantro"],
+      "cooking_time": 35,
+      "calories": 320,
+      "cover": "https://i.ibb.co/Jz1znbH/Vegan-Chickpea-Curry.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Quinoa Stuffed Bell Peppers",
+      "description": "Enjoy the hearty goodness of quinoa stuffed into vibrant bell peppers, baked to perfection and topped with a savory tomato sauce.",
+      "ingredients": ["Quinoa", "Bell peppers", "Tomatoes", "Onion", "Garlic", "Spinach", "Vegetable broth", "Olive oil", "Basil", "Oregano", "Salt", "Pepper"],
+      "cooking_time": 45,
+      "calories": 280,
+      "cover": "https://i.ibb.co/gRHVr6M/Quinoa-Stuffed-Bell-Peppers-by-freepik.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vegan Lentil Soup",
+      "description": "Warm up with a comforting bowl of vegan lentil soup, brimming with nutritious lentils, vegetables, and aromatic herbs.",
+      "ingredients": ["Lentils", "Carrots", "Celery", "Onion", "Garlic", "Tomatoes", "Vegetable broth", "Bay leaves", "Thyme", "Olive oil", "Salt", "Pepper"],
+      "cooking_time": 40,
+      "calories": 250,
+      "cover": "https://i.ibb.co/4jbqtKc/Vegan-Lentil-Soup.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Roasted Vegetable Quinoa Salad",
+      "description": "Delight in the vibrant flavors of roasted vegetables and fluffy quinoa, tossed together in a tangy vinaigrette for a refreshing salad.",
+      "ingredients": ["Quinoa", "Bell peppers", "Zucchini", "Cherry tomatoes", "Red onion", "Garlic", "Olive oil", "Balsamic vinegar", "Fresh basil", "Salt", "Pepper"],
+      "cooking_time": 30,
+      "calories": 290,
+      "cover": "https://i.ibb.co/7CmJ3ZX/Roasted-Vegetable-Quinoa-Salad.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vegan Pad Thai",
+      "description": "Transport your taste buds to Thailand with this authentic vegan pad Thai, featuring rice noodles, tofu, and a tangy tamarind sauce.",
+      "ingredients": ["Rice noodles", "Tofu", "Bean sprouts", "Carrots", "Scallions", "Garlic", "Peanuts", "Tamarind paste", "Soy sauce", "Maple syrup", "Rice vinegar", "Sriracha"],
+      "cooking_time": 25,
+      "calories": 350,
+      "cover": "https://i.ibb.co/tZ4DvsK/Vegan-Pad-Thai.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Vegan Black Bean Burgers",
+      "description": "Sink your teeth into these hearty vegan black bean burgers, loaded with protein-packed black beans, veggies, and spices, perfect for a satisfying meal.",
+      "ingredients": ["Black beans", "Onion", "Garlic", "Bell peppers", "Cilantro", "Cumin", "Chili powder", "Oats", "Flaxseed meal", "Buns", "Lettuce", "Tomato", "Avocado"],
+      "cooking_time": 35,
+      "calories": 300,
+      "cover": "https://i.ibb.co/wQ4Y8zh/Vegan-Black-Bean-Burgers-by-freepik.jpg"
+    }
+  ]
+  
+
+
+
+
